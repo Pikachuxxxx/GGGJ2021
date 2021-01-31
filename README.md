@@ -1,8 +1,9 @@
 # GGJ2021
+[GGJ page](https://globalgamejam.org/2021/games/eidolon-2)
 # Eidolon
 Our Submission for the GlobalGameJam 2021
 
-The story of a troubled man. 
+The story of a troubled man.
 
 ## **Script**
 
@@ -13,7 +14,7 @@ As he tries to answers them, he faints and ends up in an alternate universe of t
 
 His goal is to parse through each floor and try to find his lost memories and use those to find his purpose and  fulfil that goal.
 
- 
+
 
 ### Floor 1 :
 
@@ -33,7 +34,7 @@ burst of white flashes and gets his memory of his sister playing with him in his
 
 **Memory** : He remembers that he promised his sister that he will save her no matter what.
 
-**Plot** : The level begins with him  breathing heavily, he finds a kid at the end of the hallway standing. He must reach her without being sucked down in the ground by demons, as he reaches her and realizes no one is there he remembers his promise. 
+**Plot** : The level begins with him  breathing heavily, he finds a kid at the end of the hallway standing. He must reach her without being sucked down in the ground by demons, as he reaches her and realizes no one is there he remembers his promise.
 
 ### Roof :
 
